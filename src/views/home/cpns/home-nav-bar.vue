@@ -17,7 +17,7 @@
     border-bottom: 1px solid #f2f2f2;
 
     .title {
-      color: var(--promary-color);
+      color: var(--primary-color);
       font-size: 16px;
       font-weight: 500;
     }
