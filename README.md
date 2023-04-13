@@ -1,6 +1,6 @@
-# hip-trip
+# Hip-trip
 
-My first vue project
+My first vue project.
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
